@@ -14,6 +14,9 @@ _Send or forward_ a text message containing links and I will:
 *YouTube*: videos/playlists/not lives
 *Mixcloud, Vimeo and* [everything from this list](https://rg3.github.io/youtube-dl/supportedsites.html) (no VK music)
 
-credit [@hacker_la](t.me/hacker_la)
-[@tWiTfAcE](t.me/tWiTfAcE)
-[@eyaadh](t.me/eyaadh)
+[Donate](http://paypal.me/irfan0859)
+
+CREDITS 👇👇👇
+   [@hacker_la](t.me/hacker_la)
+   [@tWiTfAcE](t.me/tWiTfAcE)
+   [@eyaadh](t.me/eyaadh)
