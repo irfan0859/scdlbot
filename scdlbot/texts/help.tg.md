@@ -19,6 +19,6 @@ _Send or forward_ a text message containing links and I will:
 
 *Credits | Emoji-links:*
 [🌟 @GitHub](https://github.com/gpchelkin/scdlbot) | [⌨️⚠](https://github.com/gpchelkin/scdlbot/issues)
-👨🏻‍💻 @gpchelkin | [🐝👍](http://pchelk.in/)
+👨🏻‍💻 @hacker_la | [🐝👍](http://pchelk.in/)
 👩🏻‍🎨 @lowonbudget | [🎨🖼️](https://www.behance.net/lowonbudget)
 🎶 @electrocircle | [⚡⚫](https://t.me/Eklight)
