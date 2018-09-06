@@ -13,12 +13,3 @@ _Send or forward_ a text message containing links and I will:
 *Bandcamp*: tracks/albums/custom links
 *YouTube*: videos/playlists/not lives
 *Mixcloud, Vimeo and* [everything from this list](https://rg3.github.io/youtube-dl/supportedsites.html) (no VK music)
-
-*Example message:*
-`Hey, bruh, check it out! https://m.soundcloud.com/richarddjames/umil-25-01 and also https://shitmat.bandcamp.com/track/amen-babylon-2016-mix and youtu.be/Mdzy5RKn434`
-
-*Credits | Emoji-links:*
-[🌟 @GitHub](https://github.com/gpchelkin/scdlbot) | [⌨️⚠](https://github.com/gpchelkin/scdlbot/issues)
-👨🏻‍💻 @hacker_la | [🐝👍](http://pchelk.in/)
-👩🏻‍🎨 @lowonbudget | [🎨🖼️](https://www.behance.net/lowonbudget)
-🎶 @electrocircle | [⚡⚫](https://t.me/Eklight)
